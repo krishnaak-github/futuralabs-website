@@ -706,4 +706,98 @@ h1{
     padding-bottom: 0px;
 }
 
+/* section */
 
+.page9{
+    /* text-align: center; */
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ninethmainbox1{
+    padding-top: 50px;
+    background-color: #f7f1ff;
+    width: 1350px;
+    border-radius: 30px;
+}
+
+.ninethsubbox1{
+    padding:0px 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.ninethsubbox1>div>label{
+    font-size: 19px;
+    line-height: 36px;
+}
+
+.ninethsubbox1>div>h2{
+    font-size: 27px;
+    line-height: 36px;
+    margin-bottom: 20px;
+    color: #562b80;
+}
+
+.ninethsubbox1>div>p{
+    color: #5E5E5E;
+}
+
+.ninethmainbox2{
+    padding-left:80px;
+    padding-right: 80px;
+}
+
+.ninethsubbox2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 80px;
+
+}
+
+.ninethminibox1{
+    background-color: #fff;
+    padding: 20px;
+    border: 1px ;
+    box-shadow: 0px 0px 10px 5px #e8e5e5 ;
+    border-radius: 20px;
+    /* line-height: 25px; */
+
+}
+
+.ninethminibox1>img{
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.ninethminibox1>h3{
+    margin-bottom: 50px;
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.ninethmainbox3{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.ninethviewall{
+    color: #562b80;
+    text-decoration: none;
+    background-color: transparent;
+    border:1px solid #562b80;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.ninethviewall:hover{
+    color: #fff;
+    background-color:#562b80;
+}
